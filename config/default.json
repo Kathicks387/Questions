@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Kathicks387:Coding4m3!@cluster0.q7cqr.mongodb.net/questions?retryWrites=true&w=majority",
+    "jsonWebTokenSecret":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c"
+}
